@@ -1,4 +1,4 @@
-public class Phone implements interface{
+public class Phone implements Chargeable{
     public void charge(){
         System.out.println("phone charge");
     }
