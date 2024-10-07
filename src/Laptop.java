@@ -3,7 +3,7 @@ public class Laptop implements Chargeable{
     public void charge(){
         System.out.println("Laptop charge");
     }
-    public void coolFeature(){
-        System.out.println("brakeable Laptop");
+    public void coolFeatureLaptop(){
+        System.out.println("brakeAble Laptop");
     }
 }
